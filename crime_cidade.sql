@@ -8,3 +8,7 @@
 SELECT * FROM crime_scene_report 
 WHERE type = 'theft' 
 AND city = 'Chicago';
+
+/* SELECT * FROM crime_scene_report 
+WHERE type = 'murder' 
+AND city = 'SQL City';
